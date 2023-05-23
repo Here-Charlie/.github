@@ -16,4 +16,4 @@ This project will address the United Nations' sustainable goals three, “Health
 Some Intel technologies that will be utilized are a mobile Intel i7 11th gen and the OpenVINO toolkit to improve the AI model's performance. Additionally, we are proposing using an Intel Realsense camera to capture depth data and vision data to assist in guiding the robot dog owner further.
 ### Credits
 
-Here Charlie! is a project by Larry Le and Kevin Vo started in late April of 2023.
+Here Charlie! is a project by Larry Le, Kevin Vo, and Ryan Huynh started in late April of 2023.
